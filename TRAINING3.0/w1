@@ -3,6 +3,7 @@ remove the file
 status of file
 add
 exit
+<<<<<<< HEAD
 rt
 12345
 i edited this line
@@ -10,3 +11,5 @@ i edited this line
 100
 101
 102
+=======
+>>>>>>> d5604e0... Update w1
